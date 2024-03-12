@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Ionut 👋
+
+- 🌱 I’m currently learning React and Node.js
 
 <!--
 **ionut/ionut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
