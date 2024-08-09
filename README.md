@@ -4,6 +4,11 @@
 - 👨‍💻 Very passionate about WebDevelopment.
 - 🤔 Exploring new technologies and developing software solutions.
 
+### Tech skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,redux,ts,nextjs,nodejs,mongodb,mysql,github,nginx)](https://skillicons.dev)
+
+
+
 ### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionut)](https://github.com/ionut/github-readme-stats)
