@@ -1,7 +1,10 @@
-### Hi, my name is Ionut 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=500&size=24&pause=1000&color=09D6F7&width=435&lines=Hi%2C+my+name+is+Ionut+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning React and Node.js
 
+### 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionut)](https://github.com/ionut/github-readme-stats)
 <!--
 **ionut/ionut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
